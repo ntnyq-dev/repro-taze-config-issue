@@ -1,0 +1,11 @@
+{
+  "name": "repro-taze-config-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "bump": "taze -I"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.0.0",
+    "taze": "^0.15.0"
+  }
+}
